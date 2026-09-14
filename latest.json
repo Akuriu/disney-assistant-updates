@@ -1,7 +1,8 @@
 {
-  "versionCode": 0,
-  "versionName": "bootstrap",
-  "apkUrl": "",
-  "sha256": "",
-  "notes": "Update channel initialized."
+  "packageName": "dev.akuriu.disneyassistant",
+  "versionCode": 5,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/Akuriu/disney-assistant-updates/releases/download/latest/DisneyAssistant-latest.apk",
+  "sha256": "4b12744a27a1aff8401e80bcc95815deaa0e362a32ec9846516adf7b6fef49b0",
+  "notes": "Build 78a5097f7d2d3481c6449a562a187b095b99a5c2"
 }
