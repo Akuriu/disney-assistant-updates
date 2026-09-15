@@ -3,6 +3,6 @@
   "versionCode": 10,
   "versionName": "0.5.0-beta3",
   "apkUrl": "https://github.com/Akuriu/disney-assistant-updates/releases/download/beta/DisneyAssistant-beta.apk",
-  "sha256": "bca91e51ed9f5a541db59e38276b40ca67ada3a26b21901fce81db6647d4011e",
-  "notes": "V0.5 beta3: suppress UNKNOWN duplicates over confirmed cards"
+  "sha256": "7930a4f6c7b9e358098d3c47133520e8d33e354ffae6bb91bb52ef3f01ce01d8",
+  "notes": "V0.5 beta3: Rank Vision + adaptive card geometry"
 }
