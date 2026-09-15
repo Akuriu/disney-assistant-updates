@@ -1,8 +1,8 @@
 {
   "packageName": "dev.akuriu.disneyassistant",
-  "versionCode": 7,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/Akuriu/disney-assistant-updates/releases/download/latest/DisneyAssistant-latest.apk",
-  "sha256": "b528366d1dc463e72fd52a87035b734231fef7c3fdd075eebe9a83dbeac2a306",
-  "notes": "Build e3f596719c9926200c05337ad08f2f12cc31434d"
+  "versionCode": 8,
+  "versionName": "0.5.0-beta1",
+  "apkUrl": "https://github.com/Akuriu/disney-assistant-updates/releases/download/beta/DisneyAssistant-beta.apk",
+  "sha256": "12fc80b65c7b50db78f68a050ec95d947dcf8b84833f34fe2fb0f1123582078c",
+  "notes": "V0.5 beta1 test build from v0.5-beta"
 }
