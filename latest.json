@@ -3,6 +3,6 @@
   "versionCode": 12,
   "versionName": "0.5.0-beta5",
   "apkUrl": "https://github.com/Akuriu/disney-assistant-updates/releases/download/beta/DisneyAssistant-beta.apk",
-  "sha256": "b6fe4768a10fbbf6326cd27ee5e0a5d3a904e4064d76e04936dc20938ca579f9",
-  "notes": "V0.5 beta5: oriented OBB + perspective classification + tracking"
+  "sha256": "d674eaaa33851c9bfb8521d3c1d2b1831af517d9252303df12cfc591a47d7944",
+  "notes": "V0.5 beta5 final: OBB Vision + perspective FACE/DOS + tracking + warped Rank Vision"
 }
