@@ -1,8 +1,8 @@
 {
   "packageName": "dev.akuriu.disneyassistant",
-  "versionCode": 12,
-  "versionName": "0.5.0-beta5",
+  "versionCode": 13,
+  "versionName": "0.5.0-beta6",
   "apkUrl": "https://github.com/Akuriu/disney-assistant-updates/releases/download/beta/DisneyAssistant-beta.apk",
-  "sha256": "d674eaaa33851c9bfb8521d3c1d2b1831af517d9252303df12cfc591a47d7944",
-  "notes": "V0.5 beta5 final: OBB Vision + perspective FACE/DOS + tracking + warped Rank Vision"
+  "sha256": "5c873bc33180fe8992c99c02b2df1d5db84de1c883b1905ca785e16ed1746549",
+  "notes": "V0.5 beta6: mini HUD + contours OFF/STABLE/DEBUG + HUD masking + anti-shrink tracking"
 }
