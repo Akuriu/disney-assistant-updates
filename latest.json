@@ -3,6 +3,6 @@
   "versionCode": 13,
   "versionName": "0.5.0-beta6",
   "apkUrl": "https://github.com/Akuriu/disney-assistant-updates/releases/download/beta/DisneyAssistant-beta.apk",
-  "sha256": "5c873bc33180fe8992c99c02b2df1d5db84de1c883b1905ca785e16ed1746549",
-  "notes": "V0.5 beta6: mini HUD + contours OFF/STABLE/DEBUG + HUD masking + anti-shrink tracking"
+  "sha256": "d5abb34b578f6ed2f20c8eed1eee03060617faee0810dbfa285cf485c21b5d5d",
+  "notes": "V0.5 beta6 final: mini HUD + contours OFF/STABLE/DEBUG + HUD masking + anti-shrink tracking"
 }
