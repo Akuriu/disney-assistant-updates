@@ -1,8 +1,8 @@
 {
   "packageName": "dev.akuriu.disneyassistant",
-  "versionCode": 10,
-  "versionName": "0.5.0-beta3",
+  "versionCode": 11,
+  "versionName": "0.5.0-beta4",
   "apkUrl": "https://github.com/Akuriu/disney-assistant-updates/releases/download/beta/DisneyAssistant-beta.apk",
-  "sha256": "7930a4f6c7b9e358098d3c47133520e8d33e354ffae6bb91bb52ef3f01ce01d8",
-  "notes": "V0.5 beta3: Rank Vision + adaptive card geometry"
+  "sha256": "85d1dcd0198fc4edd46771f03da4aff0d599705f7c373a74c1f540af360c0860",
+  "notes": "V0.5 beta4: sparse endgame + precise ML boxes"
 }
